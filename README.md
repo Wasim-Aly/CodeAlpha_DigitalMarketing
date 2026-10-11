@@ -13,6 +13,7 @@ This repository contains the tasks I completed during my Digital Marketing & Bra
 | 1 | Social Media Campaign Design | 7-day content calendar for Instagram and LinkedIn with post ideas, captions and hashtags | [View](Task1_SocialMediaCampaign) |
 | 2 | SEO & Keyword Research | 20 keywords for internships, coding and training content, with usage ideas | [View](Task2_SEOKeywordResearch) |
 | 3 | Branding Strategy Document | Branding report with competitor analysis, USPs and campaign ideas | [View](Task3_BrandingStrategy) |
+
 ## Links
 - Project video on LinkedIn: [paste link]
 - Google Drive folder: [paste link]
